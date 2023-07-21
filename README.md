@@ -1,3 +1,3 @@
 - Hi, I’m Jared
-- I’m interested in Cricket, Hockey, Coding and Gaming
+- I’m interested in Cricket, Hockey and F1
 - Languages: PHP, Java and C#
