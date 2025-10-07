@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've been working as full stack developer at Webtonic Solutions for year and a half.<br>Working on large scale applications that are utilized in over 80 countries.<br>I have 2 certifications for AWS: <br> - Developer Associate <br> - Cloud Practitioner
+I've been working as full stack developer at Webtonic Solutions for 2+ years.<br>Working on large scale applications that are utilized in over 80 countries.<br>I have 3 certifications for AWS: <br> - DevOps Engineer Professional <br> - Developer Associate <br> - Cloud Practitioner
 
 
 # 💻 Tech Stack:
